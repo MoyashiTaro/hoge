@@ -44,6 +44,7 @@ export default {
     typography: true,
   },
   generate: {
+    fallback: true,
     routes() {
       return client
         .getEntries({ content_type: 'post' })
