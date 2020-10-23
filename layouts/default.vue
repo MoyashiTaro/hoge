@@ -1,6 +1,7 @@
 <template>
   <div>
     <Nuxt />
+    <h1>あいうえお</h1>
   </div>
 </template>
 
