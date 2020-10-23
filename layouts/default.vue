@@ -1,7 +1,9 @@
 <template>
   <div>
+    <h1>
+      <nuxt-link to="/">トップ！！！！</nuxt-link>
+    </h1>
     <Nuxt />
-    <h1>あいうえお</h1>
   </div>
 </template>
 
